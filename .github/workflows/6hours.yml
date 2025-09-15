@@ -1,5 +1,6 @@
 name: Windows RDP via Ngrok
-
+permision:
+contents: write
 on: [push]
 
 jobs:
